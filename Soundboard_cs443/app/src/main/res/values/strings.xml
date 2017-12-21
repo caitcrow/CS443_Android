@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Soundboard_cs443</string>
+    <string name="main_label">Soundboard</string>
+
+    <string-array name="soundNames">
+        <item>Piano</item>
+        <item>Piano</item>
+        <item>Piano</item>
+        <item>Piano</item>
+        <item>Piano</item>
+
+        <item>Drum</item>
+        <item>Drum</item>
+        <item>Drum</item>
+        <item>Drum</item>
+        <item>Drum</item>
+
+        <item>Guitar</item>
+        <item>Guitar</item>
+        <item>Guitar</item>
+        <item>Guitar</item>
+        <item>Guitar</item>
+
+        <item>Beat</item>
+        <item>Beat</item>
+        <item>Beat</item>
+        <item>Beat</item>
+        <item>Beat</item>
+
+    </string-array>
+
+    <string name="action_send">Share</string>
+    <string name="action_ringtone">Save As</string>
+    <!--
+    <string name="action_favorite">Add favorite</string>
+-->
+</resources>
