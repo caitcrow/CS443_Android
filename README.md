@@ -1,1 +1,1 @@
-All sounds are from https://freesound.org/. 
+All sounds are located in the raw file and are sourced from https://freesound.org. 
